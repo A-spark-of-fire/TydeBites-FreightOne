@@ -3,7 +3,7 @@
  * Attaches layer-2 plant access headers when present (localStorage).
  */
 
-const API = 'http://127.0.0.1:8000';
+const API = 'https://tydebites-freightone-7nyq.onrender.com';
 export default API;
 
 function plantSecurityHeaders() {
