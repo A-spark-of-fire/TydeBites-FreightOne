@@ -1,0 +1,93 @@
+{
+  "paradip_to_RSP": {
+    "origin_port": "paradip",
+    "plant_code": "RSP",
+    "plant_name": "Rourkela Steel Plant",
+    "rail_distance_km": 420,
+    "road_distance_km": 450,
+    "rail_transit_days": 2.0,
+    "road_transit_days": 3.0,
+    "rail_rate_inr_mt": 380,
+    "road_rate_inr_mt": 520,
+    "preferred_mode": "rail",
+    "capacity_notes": "Dedicated coal rakes available; priority for SAIL."
+  },
+  "paradip_to_BSP": {
+    "origin_port": "paradip",
+    "plant_code": "BSP",
+    "plant_name": "Bhilai Steel Plant",
+    "rail_distance_km": 680,
+    "road_distance_km": 720,
+    "rail_transit_days": 3.0,
+    "road_transit_days": 5.0,
+    "rail_rate_inr_mt": 520,
+    "road_rate_inr_mt": 680,
+    "preferred_mode": "rail",
+    "capacity_notes": "Longer haul; multi-leg possible."
+  },
+  "haldia_to_ISP": {
+    "origin_port": "haldia",
+    "plant_code": "ISP",
+    "plant_name": "IISCO Steel Plant",
+    "rail_distance_km": 180,
+    "road_distance_km": 200,
+    "rail_transit_days": 1.0,
+    "road_transit_days": 2.0,
+    "rail_rate_inr_mt": 210,
+    "road_rate_inr_mt": 310,
+    "preferred_mode": "rail",
+    "capacity_notes": "Short haul, high reliability."
+  },
+  "haldia_to_RSP": {
+    "origin_port": "haldia",
+    "plant_code": "RSP",
+    "plant_name": "Rourkela Steel Plant",
+    "rail_distance_km": 520,
+    "road_distance_km": 560,
+    "rail_transit_days": 3.0,
+    "road_transit_days": 4.0,
+    "rail_rate_inr_mt": 450,
+    "road_rate_inr_mt": 590,
+    "preferred_mode": "rail",
+    "capacity_notes": ""
+  },
+  "vizag_to_VSP": {
+    "origin_port": "vizag",
+    "plant_code": "VSP",
+    "plant_name": "Visakhapatnam Steel Plant",
+    "rail_distance_km": 25,
+    "road_distance_km": 30,
+    "rail_transit_days": 0.5,
+    "road_transit_days": 0.5,
+    "rail_rate_inr_mt": 80,
+    "road_rate_inr_mt": 120,
+    "preferred_mode": "rail",
+    "capacity_notes": "Almost dedicated conveyor / short rail link."
+  },
+  "vizag_to_RSP": {
+    "origin_port": "vizag",
+    "plant_code": "RSP",
+    "plant_name": "Rourkela Steel Plant",
+    "rail_distance_km": 780,
+    "road_distance_km": 820,
+    "rail_transit_days": 4.0,
+    "road_transit_days": 6.0,
+    "rail_rate_inr_mt": 610,
+    "road_rate_inr_mt": 780,
+    "preferred_mode": "rail",
+    "capacity_notes": "Longer inland leg; higher cost."
+  },
+  "gangavaram_to_VSP": {
+    "origin_port": "gangavaram",
+    "plant_code": "VSP",
+    "plant_name": "Visakhapatnam Steel Plant",
+    "rail_distance_km": 35,
+    "road_distance_km": 40,
+    "rail_transit_days": 0.5,
+    "road_transit_days": 1.0,
+    "rail_rate_inr_mt": 95,
+    "road_rate_inr_mt": 140,
+    "preferred_mode": "rail",
+    "capacity_notes": ""
+  }
+}

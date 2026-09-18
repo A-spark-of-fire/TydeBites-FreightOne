@@ -1,0 +1,38 @@
+{
+  "coking_coal": {
+    "id": "coking_coal",
+    "name": "Coking Coal",
+    "unit": "MT",
+    "typical_daily_consumption": 9200,
+    "safety_days": 6,
+    "preferred_origins": ["australia", "mozambique", "usa"],
+    "historic_preference_ports": ["paradip", "vizag"]
+  },
+  "iron_ore": {
+    "id": "iron_ore",
+    "name": "Iron Ore",
+    "unit": "MT",
+    "typical_daily_consumption": 10800,
+    "safety_days": 7,
+    "preferred_origins": ["australia", "brazil", "south_africa"],
+    "historic_preference_ports": ["paradip", "haldia"]
+  },
+  "limestone": {
+    "id": "limestone",
+    "name": "Limestone",
+    "unit": "MT",
+    "typical_daily_consumption": 4200,
+    "safety_days": 8,
+    "preferred_origins": ["uae", "oman"],
+    "historic_preference_ports": ["haldia", "paradip"]
+  },
+  "thermal_coal": {
+    "id": "thermal_coal",
+    "name": "Thermal Coal",
+    "unit": "MT",
+    "typical_daily_consumption": 6500,
+    "safety_days": 5,
+    "preferred_origins": ["indonesia", "australia", "south_africa"],
+    "historic_preference_ports": ["paradip", "vizag"]
+  }
+}

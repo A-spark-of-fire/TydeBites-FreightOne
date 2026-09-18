@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mgr-001",
+    "user_id": "r.sharma",
+    "password": "sail123",
+    "name": "R. Sharma",
+    "employee_id": "SAIL-20417",
+    "post": "Senior Manager - Bulk Procurement",
+    "plant_code": "RSP",
+    "plant_name": "Rourkela Steel Plant",
+    "posting_place": "Rourkela, Odisha",
+    "rank": "Senior Manager"
+  },
+  {
+    "id": "mgr-002",
+    "user_id": "a.patel",
+    "password": "sail456",
+    "name": "A. Patel",
+    "employee_id": "SAIL-19842",
+    "post": "Manager - Logistics & Chartering",
+    "plant_code": "BSP",
+    "plant_name": "Bhilai Steel Plant",
+    "posting_place": "Bhilai, Chhattisgarh",
+    "rank": "Manager"
+  },
+  {
+    "id": "mgr-003",
+    "user_id": "s.nair",
+    "password": "sail789",
+    "name": "S. Nair",
+    "employee_id": "SAIL-22109",
+    "post": "Deputy Manager - Port Operations",
+    "plant_code": "VSP",
+    "plant_name": "Visakhapatnam Steel Plant",
+    "posting_place": "Visakhapatnam, Andhra Pradesh",
+    "rank": "Deputy Manager"
+  },
+  {
+    "id": "mgr-004",
+    "user_id": "k.reddy",
+    "password": "sail321",
+    "name": "K. Reddy",
+    "employee_id": "SAIL-21567",
+    "post": "Manager - Inventory & Planning",
+    "plant_code": "ISP",
+    "plant_name": "IISCO Steel Plant",
+    "posting_place": "Burnpur, West Bengal",
+    "rank": "Manager"
+  }
+]

@@ -1,0 +1,141 @@
+{
+  "version": "1.0",
+  "note": "Indicative demo planning data; replace with verified vessel particulars and berth/air-draft restrictions for production.",
+  "vessels": [
+    {
+      "id": "coaster",
+      "name": "Coaster 15",
+      "class": "Coaster",
+      "capacity_mt": 15000,
+      "dwt_mt": 18000,
+      "draft_m": 6.5,
+      "loa_m": 130,
+      "beam_m": 20.0,
+      "speed_knots": 11.5,
+      "sea_rate_per_mt": 26.0,
+      "charter_usd_day": 11000,
+      "air_draft_m": 24
+    },
+    {
+      "id": "handysize",
+      "name": "Handysize 35",
+      "class": "Handysize",
+      "capacity_mt": 35000,
+      "dwt_mt": 40000,
+      "draft_m": 10.0,
+      "loa_m": 190,
+      "beam_m": 28.0,
+      "speed_knots": 12.5,
+      "sea_rate_per_mt": 22.0,
+      "charter_usd_day": 13500,
+      "air_draft_m": 28
+    },
+    {
+      "id": "supramax",
+      "name": "Supramax 58",
+      "class": "Supramax",
+      "capacity_mt": 58000,
+      "dwt_mt": 65000,
+      "draft_m": 12.5,
+      "loa_m": 200,
+      "beam_m": 32.0,
+      "speed_knots": 12.8,
+      "sea_rate_per_mt": 19.0,
+      "charter_usd_day": 16000,
+      "air_draft_m": 31
+    },
+    {
+      "id": "panamax",
+      "name": "Panamax 82",
+      "class": "Panamax",
+      "capacity_mt": 82000,
+      "dwt_mt": 92000,
+      "draft_m": 14.5,
+      "loa_m": 225,
+      "beam_m": 32.3,
+      "speed_knots": 13.0,
+      "sea_rate_per_mt": 16.0,
+      "charter_usd_day": 20500,
+      "air_draft_m": 34
+    },
+    {
+      "id": "kamsarmax",
+      "name": "Kamsarmax 95",
+      "class": "Kamsarmax",
+      "capacity_mt": 88000,
+      "dwt_mt": 98000,
+      "draft_m": 14.0,
+      "loa_m": 229,
+      "beam_m": 32.3,
+      "speed_knots": 13.2,
+      "sea_rate_per_mt": 15.5,
+      "charter_usd_day": 22000,
+      "air_draft_m": 35
+    },
+    {
+      "id": "capesize150",
+      "name": "Capesize 150",
+      "class": "Capesize",
+      "capacity_mt": 138000,
+      "dwt_mt": 150000,
+      "draft_m": 15.1,
+      "loa_m": 270,
+      "beam_m": 43.0,
+      "speed_knots": 13.7,
+      "sea_rate_per_mt": 13.5,
+      "charter_usd_day": 28500,
+      "air_draft_m": 39
+    },
+    {
+      "id": "capesize180",
+      "name": "Capesize 180",
+      "class": "Capesize",
+      "capacity_mt": 165000,
+      "dwt_mt": 180000,
+      "draft_m": 16.2,
+      "loa_m": 290,
+      "beam_m": 45.0,
+      "speed_knots": 13.9,
+      "sea_rate_per_mt": 12.5,
+      "charter_usd_day": 32000,
+      "air_draft_m": 41
+    }
+  ],
+  "port_constraints": {
+    "paradip": {
+      "max_loa_m": 300,
+      "max_beam_m": 45,
+      "max_air_draft_m": 45
+    },
+    "vizag": {
+      "max_loa_m": 310,
+      "max_beam_m": 48,
+      "max_air_draft_m": 45
+    },
+    "gangavaram": {
+      "max_loa_m": 320,
+      "max_beam_m": 50,
+      "max_air_draft_m": 48
+    },
+    "gopalpur": {
+      "max_loa_m": 250,
+      "max_beam_m": 40,
+      "max_air_draft_m": 40
+    },
+    "dhamra": {
+      "max_loa_m": 300,
+      "max_beam_m": 46,
+      "max_air_draft_m": 45
+    },
+    "sandheads": {
+      "max_loa_m": 200,
+      "max_beam_m": 32,
+      "max_air_draft_m": 34
+    },
+    "haldia": {
+      "max_loa_m": 186,
+      "max_beam_m": 30,
+      "max_air_draft_m": 36
+    }
+  }
+}

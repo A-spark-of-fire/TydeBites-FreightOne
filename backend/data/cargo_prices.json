@@ -1,0 +1,24 @@
+{
+  "coking_coal": {
+    "australia": {"fob_usd_mt": 210, "inr_mt": 17640, "last_updated": "2026-08-28"},
+    "mozambique": {"fob_usd_mt": 195, "inr_mt": 16380, "last_updated": "2026-08-28"},
+    "usa": {"fob_usd_mt": 225, "inr_mt": 18900, "last_updated": "2026-08-27"},
+    "indonesia": {"fob_usd_mt": 180, "inr_mt": 15120, "last_updated": "2026-08-26"}
+  },
+  "iron_ore": {
+    "australia": {"fob_usd_mt": 95, "inr_mt": 7980, "last_updated": "2026-08-28"},
+    "brazil": {"fob_usd_mt": 92, "inr_mt": 7728, "last_updated": "2026-08-28"},
+    "south_africa": {"fob_usd_mt": 88, "inr_mt": 7392, "last_updated": "2026-08-27"}
+  },
+  "limestone": {
+    "uae": {"fob_usd_mt": 28, "inr_mt": 2352, "last_updated": "2026-08-28"},
+    "oman": {"fob_usd_mt": 26, "inr_mt": 2184, "last_updated": "2026-08-28"}
+  },
+  "thermal_coal": {
+    "indonesia": {"fob_usd_mt": 85, "inr_mt": 7140, "last_updated": "2026-08-28"},
+    "australia": {"fob_usd_mt": 105, "inr_mt": 8820, "last_updated": "2026-08-27"},
+    "south_africa": {"fob_usd_mt": 98, "inr_mt": 8232, "last_updated": "2026-08-26"}
+  },
+  "fx_usd_inr": 84.0,
+  "notes": "FOB prices are indicative and can be updated from market feeds. Landed cost = FOB + freight + inland + duties approximation."
+}

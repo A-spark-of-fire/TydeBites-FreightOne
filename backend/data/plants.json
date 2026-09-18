@@ -1,0 +1,257 @@
+{
+  "RSP": {
+    "code": "RSP",
+    "name": "Rourkela Steel Plant",
+    "location": "Rourkela, Odisha",
+    "nearest_port": "paradip",
+    "state": "Odisha",
+    "daily_consumption_override": {},
+    "inventory": {
+      "coking_coal": {
+        "stock_mt": 52000,
+        "safety_stock_mt": 55000
+      },
+      "iron_ore": {
+        "stock_mt": 210000,
+        "safety_stock_mt": 75000
+      },
+      "limestone": {
+        "stock_mt": 48000,
+        "safety_stock_mt": 34000
+      },
+      "thermal_coal": {
+        "stock_mt": 28000,
+        "safety_stock_mt": 32000
+      }
+    },
+    "port_relationships": {
+      "paradip": {
+        "relationship_index": 0.92,
+        "reliability_index": 0.9,
+        "annual_voyages": 38,
+        "preferred": true
+      },
+      "vizag": {
+        "relationship_index": 0.78,
+        "reliability_index": 0.82,
+        "annual_voyages": 18,
+        "preferred": true
+      },
+      "gangavaram": {
+        "relationship_index": 0.66,
+        "reliability_index": 0.78,
+        "annual_voyages": 10
+      },
+      "gopalpur": {
+        "relationship_index": 0.72,
+        "reliability_index": 0.8,
+        "annual_voyages": 12
+      },
+      "dhamra": {
+        "relationship_index": 0.76,
+        "reliability_index": 0.84,
+        "annual_voyages": 16
+      },
+      "haldia": {
+        "relationship_index": 0.52,
+        "reliability_index": 0.7,
+        "annual_voyages": 7
+      },
+      "sagar": {
+        "relationship_index": 0.35,
+        "reliability_index": 0.62,
+        "annual_voyages": 3
+      }
+    }
+  },
+  "BSP": {
+    "code": "BSP",
+    "name": "Bhilai Steel Plant",
+    "location": "Bhilai, Chhattisgarh",
+    "nearest_port": "paradip",
+    "state": "Chhattisgarh",
+    "inventory": {
+      "coking_coal": {
+        "stock_mt": 125000,
+        "safety_stock_mt": 50000
+      },
+      "iron_ore": {
+        "stock_mt": 95000,
+        "safety_stock_mt": 70000
+      },
+      "limestone": {
+        "stock_mt": 22000,
+        "safety_stock_mt": 28000
+      },
+      "thermal_coal": {
+        "stock_mt": 78000,
+        "safety_stock_mt": 25000
+      }
+    },
+    "port_relationships": {
+      "paradip": {
+        "relationship_index": 0.88,
+        "reliability_index": 0.88,
+        "annual_voyages": 28,
+        "preferred": true
+      },
+      "vizag": {
+        "relationship_index": 0.71,
+        "reliability_index": 0.79,
+        "annual_voyages": 13
+      },
+      "gangavaram": {
+        "relationship_index": 0.58,
+        "reliability_index": 0.74,
+        "annual_voyages": 8
+      },
+      "gopalpur": {
+        "relationship_index": 0.62,
+        "reliability_index": 0.76,
+        "annual_voyages": 8
+      },
+      "dhamra": {
+        "relationship_index": 0.7,
+        "reliability_index": 0.81,
+        "annual_voyages": 12
+      },
+      "haldia": {
+        "relationship_index": 0.46,
+        "reliability_index": 0.68,
+        "annual_voyages": 5
+      },
+      "sagar": {
+        "relationship_index": 0.3,
+        "reliability_index": 0.58,
+        "annual_voyages": 2
+      }
+    }
+  },
+  "VSP": {
+    "code": "VSP",
+    "name": "Visakhapatnam Steel Plant",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "nearest_port": "vizag",
+    "state": "Andhra Pradesh",
+    "inventory": {
+      "coking_coal": {
+        "stock_mt": 88000,
+        "safety_stock_mt": 60000
+      },
+      "iron_ore": {
+        "stock_mt": 165000,
+        "safety_stock_mt": 85000
+      },
+      "limestone": {
+        "stock_mt": 91000,
+        "safety_stock_mt": 30000
+      },
+      "thermal_coal": {
+        "stock_mt": 41000,
+        "safety_stock_mt": 40000
+      }
+    },
+    "port_relationships": {
+      "vizag": {
+        "relationship_index": 0.95,
+        "reliability_index": 0.93,
+        "annual_voyages": 42,
+        "preferred": true
+      },
+      "gangavaram": {
+        "relationship_index": 0.91,
+        "reliability_index": 0.92,
+        "annual_voyages": 31,
+        "preferred": true
+      },
+      "paradip": {
+        "relationship_index": 0.68,
+        "reliability_index": 0.78,
+        "annual_voyages": 11
+      },
+      "gopalpur": {
+        "relationship_index": 0.75,
+        "reliability_index": 0.82,
+        "annual_voyages": 13
+      },
+      "dhamra": {
+        "relationship_index": 0.64,
+        "reliability_index": 0.76,
+        "annual_voyages": 9
+      },
+      "haldia": {
+        "relationship_index": 0.42,
+        "reliability_index": 0.67,
+        "annual_voyages": 4
+      },
+      "sagar": {
+        "relationship_index": 0.28,
+        "reliability_index": 0.58,
+        "annual_voyages": 2
+      }
+    }
+  },
+  "ISP": {
+    "code": "ISP",
+    "name": "IISCO Steel Plant",
+    "location": "Burnpur, West Bengal",
+    "nearest_port": "haldia",
+    "state": "West Bengal",
+    "inventory": {
+      "coking_coal": {
+        "stock_mt": 35000,
+        "safety_stock_mt": 40000
+      },
+      "iron_ore": {
+        "stock_mt": 72000,
+        "safety_stock_mt": 55000
+      },
+      "limestone": {
+        "stock_mt": 18000,
+        "safety_stock_mt": 22000
+      },
+      "thermal_coal": {
+        "stock_mt": 55000,
+        "safety_stock_mt": 20000
+      }
+    },
+    "port_relationships": {
+      "haldia": {
+        "relationship_index": 0.94,
+        "reliability_index": 0.91,
+        "annual_voyages": 35,
+        "preferred": true
+      },
+      "sagar": {
+        "relationship_index": 0.82,
+        "reliability_index": 0.8,
+        "annual_voyages": 14
+      },
+      "paradip": {
+        "relationship_index": 0.61,
+        "reliability_index": 0.75,
+        "annual_voyages": 10
+      },
+      "vizag": {
+        "relationship_index": 0.48,
+        "reliability_index": 0.68,
+        "annual_voyages": 6
+      },
+      "gangavaram": {
+        "relationship_index": 0.45,
+        "reliability_index": 0.66,
+        "annual_voyages": 5
+      },
+      "gopalpur": {
+        "relationship_index": 0.55,
+        "reliability_index": 0.72,
+        "annual_voyages": 7
+      },
+      "dhamra": {
+        "relationship_index": 0.57,
+        "reliability_index": 0.73,
+        "annual_voyages": 8
+      }
+    }
+  }
+}

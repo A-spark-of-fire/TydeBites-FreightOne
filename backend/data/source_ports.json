@@ -1,0 +1,212 @@
+{
+  "australia": {
+    "country": "Australia",
+    "port_code": "AUPHE",
+    "port_name": "Port Hedland",
+    "lat": -20.31,
+    "lon": 118.575,
+    "typical_transit_days_to_east_coast": 17,
+    "primary_cargo": [
+      "iron_ore",
+      "coking_coal"
+    ],
+    "notes": "Major bulk export hub for iron ore and coal.",
+    "max_draft_m": 18.5,
+    "max_loa_m": 320,
+    "max_beam_m": 55,
+    "max_dwt": 250000,
+    "loading_rate_mt_per_day": 80000,
+    "berth_limitations": "Capesize capable",
+    "typical_queue_days": 1.0,
+    "air_draft_m": null,
+    "quality_index": {
+      "coking_coal": 92,
+      "iron_ore": 95,
+      "thermal_coal": 75,
+      "limestone": 70
+    }
+  },
+  "indonesia": {
+    "country": "Indonesia",
+    "port_code": "IDTPP",
+    "port_name": "Tanjung Priok / Kalimantan ports",
+    "lat": -6.1045,
+    "lon": 106.8804,
+    "typical_transit_days_to_east_coast": 12,
+    "primary_cargo": [
+      "thermal_coal"
+    ],
+    "notes": "Key thermal coal source; multiple loading points in Kalimantan.",
+    "max_draft_m": 14.0,
+    "max_loa_m": 250,
+    "max_beam_m": 42,
+    "max_dwt": 90000,
+    "loading_rate_mt_per_day": 35000,
+    "berth_limitations": "Supramax/Panamax preferred; some Capesize at dedicated terminals",
+    "typical_queue_days": 2.5,
+    "air_draft_m": null,
+    "quality_index": {
+      "coking_coal": 70,
+      "iron_ore": 80,
+      "thermal_coal": 88,
+      "limestone": 70
+    }
+  },
+  "south_africa": {
+    "country": "South Africa",
+    "port_code": "ZARCB",
+    "port_name": "Richards Bay",
+    "lat": -28.783,
+    "lon": 32.037,
+    "typical_transit_days_to_east_coast": 20,
+    "primary_cargo": [
+      "thermal_coal",
+      "iron_ore"
+    ],
+    "notes": "Richards Bay Coal Terminal is one of the world's largest.",
+    "max_draft_m": 19.0,
+    "max_loa_m": 300,
+    "max_beam_m": 50,
+    "max_dwt": 180000,
+    "loading_rate_mt_per_day": 60000,
+    "berth_limitations": "Richards Bay handles Capesize",
+    "typical_queue_days": 1.5,
+    "air_draft_m": null,
+    "quality_index": {
+      "coking_coal": 70,
+      "iron_ore": 80,
+      "thermal_coal": 82,
+      "limestone": 70
+    }
+  },
+  "brazil": {
+    "country": "Brazil",
+    "port_code": "BRSSZ",
+    "port_name": "Santos / Tubarao",
+    "lat": -23.9608,
+    "lon": -46.3333,
+    "typical_transit_days_to_east_coast": 28,
+    "primary_cargo": [
+      "iron_ore"
+    ],
+    "notes": "Long-haul iron ore route; higher freight sensitivity.",
+    "max_draft_m": 20.0,
+    "max_loa_m": 340,
+    "max_beam_m": 60,
+    "max_dwt": 400000,
+    "loading_rate_mt_per_day": 100000,
+    "berth_limitations": "Very deep; VLOC capable",
+    "typical_queue_days": 1.2,
+    "air_draft_m": null,
+    "quality_index": {
+      "coking_coal": 70,
+      "iron_ore": 90,
+      "thermal_coal": 75,
+      "limestone": 70
+    }
+  },
+  "mozambique": {
+    "country": "Mozambique",
+    "port_code": "MZMPM",
+    "port_name": "Maputo / Beira",
+    "lat": -25.9653,
+    "lon": 32.5892,
+    "typical_transit_days_to_east_coast": 14,
+    "primary_cargo": [
+      "coking_coal"
+    ],
+    "notes": "Growing coking coal origin for East Coast India.",
+    "max_draft_m": 14.5,
+    "max_loa_m": 260,
+    "max_beam_m": 45,
+    "max_dwt": 120000,
+    "loading_rate_mt_per_day": 25000,
+    "berth_limitations": "Panamax / small Capesize; developing infrastructure",
+    "typical_queue_days": 3.0,
+    "air_draft_m": null,
+    "quality_index": {
+      "coking_coal": 85,
+      "iron_ore": 80,
+      "thermal_coal": 75,
+      "limestone": 70
+    }
+  },
+  "uae": {
+    "country": "UAE",
+    "port_code": "AEJEA",
+    "port_name": "Jebel Ali",
+    "lat": 25.0118,
+    "lon": 55.0617,
+    "typical_transit_days_to_east_coast": 10,
+    "primary_cargo": [
+      "limestone"
+    ],
+    "notes": "Short-haul limestone and aggregates.",
+    "max_draft_m": 16.0,
+    "max_loa_m": 280,
+    "max_beam_m": 45,
+    "max_dwt": 150000,
+    "loading_rate_mt_per_day": 30000,
+    "berth_limitations": "Good for bulk limestone",
+    "typical_queue_days": 1.0,
+    "air_draft_m": null,
+    "quality_index": {
+      "coking_coal": 70,
+      "iron_ore": 80,
+      "thermal_coal": 75,
+      "limestone": 90
+    }
+  },
+  "oman": {
+    "country": "Oman",
+    "port_code": "OMSOH",
+    "port_name": "Sohar",
+    "lat": 24.364,
+    "lon": 56.739,
+    "typical_transit_days_to_east_coast": 9,
+    "primary_cargo": [
+      "limestone"
+    ],
+    "notes": "Preferred limestone source with reliable draft.",
+    "max_draft_m": 16.5,
+    "max_loa_m": 280,
+    "max_beam_m": 45,
+    "max_dwt": 160000,
+    "loading_rate_mt_per_day": 28000,
+    "berth_limitations": "Limestone / gypsum",
+    "typical_queue_days": 1.0,
+    "air_draft_m": null,
+    "quality_index": {
+      "coking_coal": 70,
+      "iron_ore": 80,
+      "thermal_coal": 75,
+      "limestone": 90
+    }
+  },
+  "usa": {
+    "country": "USA",
+    "port_code": "USNOL",
+    "port_name": "New Orleans / Hampton Roads",
+    "lat": 29.9511,
+    "lon": -90.0715,
+    "typical_transit_days_to_east_coast": 30,
+    "primary_cargo": [
+      "coking_coal"
+    ],
+    "notes": "US Gulf / East Coast coal exports; longer voyage.",
+    "max_draft_m": 15.0,
+    "max_loa_m": 280,
+    "max_beam_m": 45,
+    "max_dwt": 110000,
+    "loading_rate_mt_per_day": 40000,
+    "berth_limitations": "US Gulf - Panamax dominant for coal",
+    "typical_queue_days": 2.0,
+    "air_draft_m": null,
+    "quality_index": {
+      "coking_coal": 78,
+      "iron_ore": 80,
+      "thermal_coal": 75,
+      "limestone": 70
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "FreightOne prototype vessel reference dataset",
+  "updated": "2026-09-05",
+  "ports": {
+    "paradip": {"name": "Paradip Port", "max_draft_m": 17.0, "max_berth_dwt_mt": 220000, "turnaround_days": 2.5},
+    "vizag": {"name": "Visakhapatnam Port", "max_draft_m": 18.0, "max_berth_dwt_mt": 250000, "turnaround_days": 2.8},
+    "haldia": {"name": "Haldia Dock Complex", "max_draft_m": 8.5, "max_berth_dwt_mt": 80000, "turnaround_days": 3.5},
+    "dhamra": {"name": "Dhamra Port", "max_draft_m": 18.0, "max_berth_dwt_mt": 250000, "turnaround_days": 2.2},
+    "kolkata": {"name": "Kolkata Port", "max_draft_m": 7.5, "max_berth_dwt_mt": 65000, "turnaround_days": 4.0}
+  },
+  "vessels": [
+    {"id": "V-001", "name": "Capesize 180", "size_class": "Capesize", "dwt_mt": 180000, "cargo_capacity_mt": 165000, "draft_m": 16.2, "base_sailing_days": 13, "daily_charter_cost_usd": 32000, "preferred_origins": ["australia", "indonesia"]},
+    {"id": "V-002", "name": "Capesize 150", "size_class": "Capesize", "dwt_mt": 150000, "cargo_capacity_mt": 138000, "draft_m": 15.1, "base_sailing_days": 13, "daily_charter_cost_usd": 29000, "preferred_origins": ["australia", "indonesia"]},
+    {"id": "V-003", "name": "Panamax 82", "size_class": "Panamax", "dwt_mt": 82000, "cargo_capacity_mt": 76000, "draft_m": 13.0, "base_sailing_days": 14, "daily_charter_cost_usd": 21000, "preferred_origins": ["australia", "indonesia", "south_africa"]},
+    {"id": "V-004", "name": "Kamsarmax 95", "size_class": "Kamsarmax", "dwt_mt": 95000, "cargo_capacity_mt": 88000, "draft_m": 14.0, "base_sailing_days": 14, "daily_charter_cost_usd": 22500, "preferred_origins": ["australia", "indonesia"]},
+    {"id": "V-005", "name": "Ultramax 63", "size_class": "Ultramax", "dwt_mt": 63000, "cargo_capacity_mt": 58000, "draft_m": 12.0, "base_sailing_days": 15, "daily_charter_cost_usd": 17500, "preferred_origins": ["indonesia", "south_africa"]},
+    {"id": "V-006", "name": "Supramax 58", "size_class": "Supramax", "dwt_mt": 58000, "cargo_capacity_mt": 53000, "draft_m": 11.5, "base_sailing_days": 15, "daily_charter_cost_usd": 16500, "preferred_origins": ["indonesia", "south_africa"]},
+    {"id": "V-007", "name": "Handysize 38", "size_class": "Handysize", "dwt_mt": 38000, "cargo_capacity_mt": 34000, "draft_m": 9.5, "base_sailing_days": 16, "daily_charter_cost_usd": 12500, "preferred_origins": ["indonesia", "south_africa"]}
+  ]
+}

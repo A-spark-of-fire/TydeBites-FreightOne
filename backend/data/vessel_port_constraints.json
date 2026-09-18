@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "note": "Reference planning constraints for vessel-fit screening. Replace with verified port/berth data when available.",
+  "ports": {
+    "paradip": {
+      "max_draft_m": 18.0,
+      "max_loa_m": 300.0,
+      "max_beam_m": 45.0
+    },
+    "vizag": {
+      "max_draft_m": 18.1,
+      "max_loa_m": 310.0,
+      "max_beam_m": 48.0
+    },
+    "gangavaram": {
+      "max_draft_m": 20.0,
+      "max_loa_m": 320.0,
+      "max_beam_m": 50.0
+    },
+    "gopalpur": {
+      "max_draft_m": 15.0,
+      "max_loa_m": 250.0,
+      "max_beam_m": 40.0
+    },
+    "dhamra": {
+      "max_draft_m": 18.5,
+      "max_loa_m": 300.0,
+      "max_beam_m": 46.0
+    },
+    "sandheads": {
+      "max_draft_m": 8.5,
+      "max_loa_m": 200.0,
+      "max_beam_m": 32.0
+    },
+    "haldia": {
+      "max_draft_m": 7.5,
+      "max_loa_m": 186.0,
+      "max_beam_m": 30.0
+    }
+  }
+}

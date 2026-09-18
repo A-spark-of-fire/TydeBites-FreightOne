@@ -1,0 +1,139 @@
+{
+  "version": "1.0",
+  "description": "Reference vessel and port capability data for FreightOne Vessel Optimizer. Replace values with verified operational data when available.",
+  "ports": {
+    "visakhapatnam": {
+      "label": "Visakhapatnam Port",
+      "code": "VIZAG",
+      "max_draft_m": 14.5,
+      "max_berth_dwt_mt": 180000,
+      "max_vessel_length_m": 300,
+      "congestion": "Low",
+      "turnaround_days": 1.6,
+      "notes": "Deep-water bulk handling; vessel choice is constrained by draft and berth DWT."
+    },
+    "gangavaram": {
+      "label": "Gangavaram Port",
+      "code": "GANG",
+      "max_draft_m": 16.5,
+      "max_berth_dwt_mt": 200000,
+      "max_vessel_length_m": 330,
+      "congestion": "Low",
+      "turnaround_days": 1.4,
+      "notes": "Deep-draft bulk option with higher vessel acceptance headroom."
+    },
+    "paradip": {
+      "label": "Paradip Port",
+      "code": "PARA",
+      "max_draft_m": 15.0,
+      "max_berth_dwt_mt": 180000,
+      "max_vessel_length_m": 300,
+      "congestion": "Medium",
+      "turnaround_days": 1.9,
+      "notes": "Strong bulk-handling capability with moderate congestion."
+    },
+    "haldia": {
+      "label": "Haldia Dock Complex",
+      "code": "HALD",
+      "max_draft_m": 8.5,
+      "max_berth_dwt_mt": 80000,
+      "max_vessel_length_m": 230,
+      "congestion": "High",
+      "turnaround_days": 2.6,
+      "notes": "Draft-limited option; larger bulk vessels are screened out."
+    }
+  },
+  "vessels": [
+    {
+      "id": "KMS-95",
+      "name": "Kamsarmax 95",
+      "class": "Kamsarmax",
+      "dwt_mt": 95000,
+      "cargo_capacity_mt": 86000,
+      "draft_m": 13.8,
+      "length_m": 229,
+      "speed_knots": 13.2,
+      "daily_charter_usd": 18500,
+      "bunker_usd_day": 9200,
+      "reliability": 94
+    },
+    {
+      "id": "PMX-82",
+      "name": "Panamax 82",
+      "class": "Panamax",
+      "dwt_mt": 82000,
+      "cargo_capacity_mt": 76000,
+      "draft_m": 13.0,
+      "length_m": 225,
+      "speed_knots": 12.6,
+      "daily_charter_usd": 17200,
+      "bunker_usd_day": 8500,
+      "reliability": 93
+    },
+    {
+      "id": "SMX-58",
+      "name": "Supramax 58",
+      "class": "Supramax",
+      "dwt_mt": 58000,
+      "cargo_capacity_mt": 53000,
+      "draft_m": 11.5,
+      "length_m": 190,
+      "speed_knots": 12.2,
+      "daily_charter_usd": 14200,
+      "bunker_usd_day": 7200,
+      "reliability": 92
+    },
+    {
+      "id": "ULX-63",
+      "name": "Ultramax 63",
+      "class": "Ultramax",
+      "dwt_mt": 63000,
+      "cargo_capacity_mt": 58000,
+      "draft_m": 12.0,
+      "length_m": 200,
+      "speed_knots": 12.4,
+      "daily_charter_usd": 15100,
+      "bunker_usd_day": 7600,
+      "reliability": 93
+    },
+    {
+      "id": "CPS-150",
+      "name": "Capesize 150",
+      "class": "Capesize",
+      "dwt_mt": 150000,
+      "cargo_capacity_mt": 138000,
+      "draft_m": 15.1,
+      "length_m": 270,
+      "speed_knots": 13.5,
+      "daily_charter_usd": 24500,
+      "bunker_usd_day": 12500,
+      "reliability": 95
+    },
+    {
+      "id": "CPS-180",
+      "name": "Capesize 180",
+      "class": "Capesize",
+      "dwt_mt": 180000,
+      "cargo_capacity_mt": 165000,
+      "draft_m": 16.2,
+      "length_m": 290,
+      "speed_knots": 13.7,
+      "daily_charter_usd": 27800,
+      "bunker_usd_day": 13800,
+      "reliability": 95
+    },
+    {
+      "id": "HND-38",
+      "name": "Handysize 38",
+      "class": "Handysize",
+      "dwt_mt": 38000,
+      "cargo_capacity_mt": 34000,
+      "draft_m": 9.5,
+      "length_m": 180,
+      "speed_knots": 11.5,
+      "daily_charter_usd": 11800,
+      "bunker_usd_day": 5900,
+      "reliability": 91
+    }
+  ]
+}

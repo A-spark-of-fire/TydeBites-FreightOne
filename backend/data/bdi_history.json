@@ -1,0 +1,1140 @@
+{
+  "generated_on": "2026-09-09",
+  "currency": "index",
+  "series": [
+    {
+      "date": "2026-03-05",
+      "bdi": 1366,
+      "capesize": 20614,
+      "panamax": 13725
+    },
+    {
+      "date": "2026-03-06",
+      "bdi": 1389,
+      "capesize": 20968,
+      "panamax": 13902
+    },
+    {
+      "date": "2026-03-07",
+      "bdi": 1385,
+      "capesize": 20895,
+      "panamax": 13913
+    },
+    {
+      "date": "2026-03-08",
+      "bdi": 1384,
+      "capesize": 20915,
+      "panamax": 13954
+    },
+    {
+      "date": "2026-03-09",
+      "bdi": 1398,
+      "capesize": 21125,
+      "panamax": 14025
+    },
+    {
+      "date": "2026-03-10",
+      "bdi": 1364,
+      "capesize": 20610,
+      "panamax": 13756
+    },
+    {
+      "date": "2026-03-11",
+      "bdi": 1388,
+      "capesize": 20949,
+      "panamax": 13970
+    },
+    {
+      "date": "2026-03-12",
+      "bdi": 1355,
+      "capesize": 20441,
+      "panamax": 13641
+    },
+    {
+      "date": "2026-03-13",
+      "bdi": 1406,
+      "capesize": 21211,
+      "panamax": 14145
+    },
+    {
+      "date": "2026-03-14",
+      "bdi": 1391,
+      "capesize": 21065,
+      "panamax": 13934
+    },
+    {
+      "date": "2026-03-15",
+      "bdi": 1396,
+      "capesize": 20956,
+      "panamax": 13923
+    },
+    {
+      "date": "2026-03-16",
+      "bdi": 1367,
+      "capesize": 20571,
+      "panamax": 13775
+    },
+    {
+      "date": "2026-03-17",
+      "bdi": 1392,
+      "capesize": 20917,
+      "panamax": 14021
+    },
+    {
+      "date": "2026-03-18",
+      "bdi": 1351,
+      "capesize": 20394,
+      "panamax": 13567
+    },
+    {
+      "date": "2026-03-19",
+      "bdi": 1371,
+      "capesize": 20771,
+      "panamax": 13806
+    },
+    {
+      "date": "2026-03-20",
+      "bdi": 1372,
+      "capesize": 20764,
+      "panamax": 13804
+    },
+    {
+      "date": "2026-03-21",
+      "bdi": 1345,
+      "capesize": 20256,
+      "panamax": 13501
+    },
+    {
+      "date": "2026-03-22",
+      "bdi": 1365,
+      "capesize": 20591,
+      "panamax": 13812
+    },
+    {
+      "date": "2026-03-23",
+      "bdi": 1331,
+      "capesize": 20010,
+      "panamax": 13407
+    },
+    {
+      "date": "2026-03-24",
+      "bdi": 1375,
+      "capesize": 20810,
+      "panamax": 13857
+    },
+    {
+      "date": "2026-03-25",
+      "bdi": 1371,
+      "capesize": 20696,
+      "panamax": 13722
+    },
+    {
+      "date": "2026-03-26",
+      "bdi": 1324,
+      "capesize": 20067,
+      "panamax": 13247
+    },
+    {
+      "date": "2026-03-27",
+      "bdi": 1333,
+      "capesize": 20144,
+      "panamax": 13381
+    },
+    {
+      "date": "2026-03-28",
+      "bdi": 1345,
+      "capesize": 20355,
+      "panamax": 13609
+    },
+    {
+      "date": "2026-03-29",
+      "bdi": 1340,
+      "capesize": 20190,
+      "panamax": 13448
+    },
+    {
+      "date": "2026-03-30",
+      "bdi": 1307,
+      "capesize": 19810,
+      "panamax": 13111
+    },
+    {
+      "date": "2026-03-31",
+      "bdi": 1323,
+      "capesize": 20035,
+      "panamax": 13266
+    },
+    {
+      "date": "2026-04-01",
+      "bdi": 1318,
+      "capesize": 19754,
+      "panamax": 13203
+    },
+    {
+      "date": "2026-04-02",
+      "bdi": 1313,
+      "capesize": 19857,
+      "panamax": 13242
+    },
+    {
+      "date": "2026-04-03",
+      "bdi": 1327,
+      "capesize": 20053,
+      "panamax": 13340
+    },
+    {
+      "date": "2026-04-04",
+      "bdi": 1353,
+      "capesize": 20508,
+      "panamax": 13613
+    },
+    {
+      "date": "2026-04-05",
+      "bdi": 1311,
+      "capesize": 19861,
+      "panamax": 13186
+    },
+    {
+      "date": "2026-04-06",
+      "bdi": 1364,
+      "capesize": 20588,
+      "panamax": 13783
+    },
+    {
+      "date": "2026-04-07",
+      "bdi": 1333,
+      "capesize": 20259,
+      "panamax": 13403
+    },
+    {
+      "date": "2026-04-08",
+      "bdi": 1335,
+      "capesize": 20063,
+      "panamax": 13407
+    },
+    {
+      "date": "2026-04-09",
+      "bdi": 1383,
+      "capesize": 20944,
+      "panamax": 13923
+    },
+    {
+      "date": "2026-04-10",
+      "bdi": 1305,
+      "capesize": 19757,
+      "panamax": 13134
+    },
+    {
+      "date": "2026-04-11",
+      "bdi": 1351,
+      "capesize": 20343,
+      "panamax": 13573
+    },
+    {
+      "date": "2026-04-12",
+      "bdi": 1406,
+      "capesize": 21151,
+      "panamax": 14116
+    },
+    {
+      "date": "2026-04-13",
+      "bdi": 1404,
+      "capesize": 21163,
+      "panamax": 14095
+    },
+    {
+      "date": "2026-04-14",
+      "bdi": 1381,
+      "capesize": 20761,
+      "panamax": 13892
+    },
+    {
+      "date": "2026-04-15",
+      "bdi": 1358,
+      "capesize": 20572,
+      "panamax": 13645
+    },
+    {
+      "date": "2026-04-16",
+      "bdi": 1439,
+      "capesize": 21752,
+      "panamax": 14517
+    },
+    {
+      "date": "2026-04-17",
+      "bdi": 1364,
+      "capesize": 20588,
+      "panamax": 13722
+    },
+    {
+      "date": "2026-04-18",
+      "bdi": 1434,
+      "capesize": 21526,
+      "panamax": 14456
+    },
+    {
+      "date": "2026-04-19",
+      "bdi": 1412,
+      "capesize": 21439,
+      "panamax": 14216
+    },
+    {
+      "date": "2026-04-20",
+      "bdi": 1402,
+      "capesize": 21122,
+      "panamax": 14036
+    },
+    {
+      "date": "2026-04-21",
+      "bdi": 1406,
+      "capesize": 21211,
+      "panamax": 14208
+    },
+    {
+      "date": "2026-04-22",
+      "bdi": 1388,
+      "capesize": 20986,
+      "panamax": 13888
+    },
+    {
+      "date": "2026-04-23",
+      "bdi": 1392,
+      "capesize": 21043,
+      "panamax": 14025
+    },
+    {
+      "date": "2026-04-24",
+      "bdi": 1431,
+      "capesize": 21609,
+      "panamax": 14340
+    },
+    {
+      "date": "2026-04-25",
+      "bdi": 1407,
+      "capesize": 21292,
+      "panamax": 14163
+    },
+    {
+      "date": "2026-04-26",
+      "bdi": 1379,
+      "capesize": 20912,
+      "panamax": 13862
+    },
+    {
+      "date": "2026-04-27",
+      "bdi": 1406,
+      "capesize": 21335,
+      "panamax": 14157
+    },
+    {
+      "date": "2026-04-28",
+      "bdi": 1393,
+      "capesize": 21207,
+      "panamax": 14010
+    },
+    {
+      "date": "2026-04-29",
+      "bdi": 1376,
+      "capesize": 20783,
+      "panamax": 13886
+    },
+    {
+      "date": "2026-04-30",
+      "bdi": 1380,
+      "capesize": 20881,
+      "panamax": 13918
+    },
+    {
+      "date": "2026-05-01",
+      "bdi": 1361,
+      "capesize": 20417,
+      "panamax": 13692
+    },
+    {
+      "date": "2026-05-02",
+      "bdi": 1373,
+      "capesize": 20677,
+      "panamax": 13829
+    },
+    {
+      "date": "2026-05-03",
+      "bdi": 1376,
+      "capesize": 20696,
+      "panamax": 13848
+    },
+    {
+      "date": "2026-05-04",
+      "bdi": 1353,
+      "capesize": 20318,
+      "panamax": 13620
+    },
+    {
+      "date": "2026-05-05",
+      "bdi": 1352,
+      "capesize": 20360,
+      "panamax": 13612
+    },
+    {
+      "date": "2026-05-06",
+      "bdi": 1360,
+      "capesize": 20490,
+      "panamax": 13684
+    },
+    {
+      "date": "2026-05-07",
+      "bdi": 1368,
+      "capesize": 20601,
+      "panamax": 13765
+    },
+    {
+      "date": "2026-05-08",
+      "bdi": 1343,
+      "capesize": 20460,
+      "panamax": 13422
+    },
+    {
+      "date": "2026-05-09",
+      "bdi": 1356,
+      "capesize": 20451,
+      "panamax": 13624
+    },
+    {
+      "date": "2026-05-10",
+      "bdi": 1381,
+      "capesize": 20854,
+      "panamax": 13970
+    },
+    {
+      "date": "2026-05-11",
+      "bdi": 1329,
+      "capesize": 20095,
+      "panamax": 13336
+    },
+    {
+      "date": "2026-05-12",
+      "bdi": 1324,
+      "capesize": 19992,
+      "panamax": 13291
+    },
+    {
+      "date": "2026-05-13",
+      "bdi": 1344,
+      "capesize": 20131,
+      "panamax": 13590
+    },
+    {
+      "date": "2026-05-14",
+      "bdi": 1338,
+      "capesize": 20343,
+      "panamax": 13407
+    },
+    {
+      "date": "2026-05-15",
+      "bdi": 1351,
+      "capesize": 20649,
+      "panamax": 13540
+    },
+    {
+      "date": "2026-05-16",
+      "bdi": 1315,
+      "capesize": 19809,
+      "panamax": 13232
+    },
+    {
+      "date": "2026-05-17",
+      "bdi": 1367,
+      "capesize": 20743,
+      "panamax": 13727
+    },
+    {
+      "date": "2026-05-18",
+      "bdi": 1321,
+      "capesize": 19911,
+      "panamax": 13325
+    },
+    {
+      "date": "2026-05-19",
+      "bdi": 1371,
+      "capesize": 20552,
+      "panamax": 13781
+    },
+    {
+      "date": "2026-05-20",
+      "bdi": 1397,
+      "capesize": 21269,
+      "panamax": 14065
+    },
+    {
+      "date": "2026-05-21",
+      "bdi": 1379,
+      "capesize": 20723,
+      "panamax": 13825
+    },
+    {
+      "date": "2026-05-22",
+      "bdi": 1379,
+      "capesize": 20861,
+      "panamax": 13881
+    },
+    {
+      "date": "2026-05-23",
+      "bdi": 1373,
+      "capesize": 20641,
+      "panamax": 13768
+    },
+    {
+      "date": "2026-05-24",
+      "bdi": 1364,
+      "capesize": 20643,
+      "panamax": 13612
+    },
+    {
+      "date": "2026-05-25",
+      "bdi": 1387,
+      "capesize": 20981,
+      "panamax": 14001
+    },
+    {
+      "date": "2026-05-26",
+      "bdi": 1401,
+      "capesize": 21234,
+      "panamax": 14063
+    },
+    {
+      "date": "2026-05-27",
+      "bdi": 1387,
+      "capesize": 20896,
+      "panamax": 14005
+    },
+    {
+      "date": "2026-05-28",
+      "bdi": 1430,
+      "capesize": 21625,
+      "panamax": 14500
+    },
+    {
+      "date": "2026-05-29",
+      "bdi": 1410,
+      "capesize": 21342,
+      "panamax": 14184
+    },
+    {
+      "date": "2026-05-30",
+      "bdi": 1408,
+      "capesize": 21452,
+      "panamax": 14215
+    },
+    {
+      "date": "2026-05-31",
+      "bdi": 1384,
+      "capesize": 20869,
+      "panamax": 13928
+    },
+    {
+      "date": "2026-06-01",
+      "bdi": 1433,
+      "capesize": 21531,
+      "panamax": 14312
+    },
+    {
+      "date": "2026-06-02",
+      "bdi": 1374,
+      "capesize": 20740,
+      "panamax": 13803
+    },
+    {
+      "date": "2026-06-03",
+      "bdi": 1423,
+      "capesize": 21420,
+      "panamax": 14248
+    },
+    {
+      "date": "2026-06-04",
+      "bdi": 1369,
+      "capesize": 20697,
+      "panamax": 13773
+    },
+    {
+      "date": "2026-06-05",
+      "bdi": 1433,
+      "capesize": 21701,
+      "panamax": 14394
+    },
+    {
+      "date": "2026-06-06",
+      "bdi": 1438,
+      "capesize": 21700,
+      "panamax": 14423
+    },
+    {
+      "date": "2026-06-07",
+      "bdi": 1393,
+      "capesize": 20988,
+      "panamax": 13913
+    },
+    {
+      "date": "2026-06-08",
+      "bdi": 1404,
+      "capesize": 21217,
+      "panamax": 14094
+    },
+    {
+      "date": "2026-06-09",
+      "bdi": 1380,
+      "capesize": 20870,
+      "panamax": 13939
+    },
+    {
+      "date": "2026-06-10",
+      "bdi": 1392,
+      "capesize": 20976,
+      "panamax": 13964
+    },
+    {
+      "date": "2026-06-11",
+      "bdi": 1384,
+      "capesize": 20804,
+      "panamax": 13909
+    },
+    {
+      "date": "2026-06-12",
+      "bdi": 1382,
+      "capesize": 21021,
+      "panamax": 13930
+    },
+    {
+      "date": "2026-06-13",
+      "bdi": 1399,
+      "capesize": 21065,
+      "panamax": 14085
+    },
+    {
+      "date": "2026-06-14",
+      "bdi": 1346,
+      "capesize": 20353,
+      "panamax": 13547
+    },
+    {
+      "date": "2026-06-15",
+      "bdi": 1350,
+      "capesize": 20546,
+      "panamax": 13591
+    },
+    {
+      "date": "2026-06-16",
+      "bdi": 1321,
+      "capesize": 19993,
+      "panamax": 13261
+    },
+    {
+      "date": "2026-06-17",
+      "bdi": 1360,
+      "capesize": 20567,
+      "panamax": 13679
+    },
+    {
+      "date": "2026-06-18",
+      "bdi": 1312,
+      "capesize": 19717,
+      "panamax": 13216
+    },
+    {
+      "date": "2026-06-19",
+      "bdi": 1383,
+      "capesize": 21041,
+      "panamax": 13975
+    },
+    {
+      "date": "2026-06-20",
+      "bdi": 1308,
+      "capesize": 19815,
+      "panamax": 13071
+    },
+    {
+      "date": "2026-06-21",
+      "bdi": 1388,
+      "capesize": 20985,
+      "panamax": 13908
+    },
+    {
+      "date": "2026-06-22",
+      "bdi": 1397,
+      "capesize": 21153,
+      "panamax": 13969
+    },
+    {
+      "date": "2026-06-23",
+      "bdi": 1361,
+      "capesize": 20490,
+      "panamax": 13681
+    },
+    {
+      "date": "2026-06-24",
+      "bdi": 1346,
+      "capesize": 20436,
+      "panamax": 13472
+    },
+    {
+      "date": "2026-06-25",
+      "bdi": 1366,
+      "capesize": 20773,
+      "panamax": 13696
+    },
+    {
+      "date": "2026-06-26",
+      "bdi": 1367,
+      "capesize": 20660,
+      "panamax": 13712
+    },
+    {
+      "date": "2026-06-27",
+      "bdi": 1381,
+      "capesize": 20858,
+      "panamax": 13840
+    },
+    {
+      "date": "2026-06-28",
+      "bdi": 1410,
+      "capesize": 21354,
+      "panamax": 14164
+    },
+    {
+      "date": "2026-06-29",
+      "bdi": 1362,
+      "capesize": 20508,
+      "panamax": 13740
+    },
+    {
+      "date": "2026-06-30",
+      "bdi": 1378,
+      "capesize": 20852,
+      "panamax": 13846
+    },
+    {
+      "date": "2026-07-01",
+      "bdi": 1401,
+      "capesize": 21144,
+      "panamax": 14110
+    },
+    {
+      "date": "2026-07-02",
+      "bdi": 1389,
+      "capesize": 21041,
+      "panamax": 13987
+    },
+    {
+      "date": "2026-07-03",
+      "bdi": 1396,
+      "capesize": 21014,
+      "panamax": 13994
+    },
+    {
+      "date": "2026-07-04",
+      "bdi": 1388,
+      "capesize": 20880,
+      "panamax": 13984
+    },
+    {
+      "date": "2026-07-05",
+      "bdi": 1409,
+      "capesize": 21394,
+      "panamax": 14247
+    },
+    {
+      "date": "2026-07-06",
+      "bdi": 1415,
+      "capesize": 21241,
+      "panamax": 14205
+    },
+    {
+      "date": "2026-07-07",
+      "bdi": 1417,
+      "capesize": 21279,
+      "panamax": 14232
+    },
+    {
+      "date": "2026-07-08",
+      "bdi": 1429,
+      "capesize": 21538,
+      "panamax": 14329
+    },
+    {
+      "date": "2026-07-09",
+      "bdi": 1409,
+      "capesize": 21417,
+      "panamax": 14153
+    },
+    {
+      "date": "2026-07-10",
+      "bdi": 1410,
+      "capesize": 21256,
+      "panamax": 14205
+    },
+    {
+      "date": "2026-07-11",
+      "bdi": 1414,
+      "capesize": 21395,
+      "panamax": 14243
+    },
+    {
+      "date": "2026-07-12",
+      "bdi": 1447,
+      "capesize": 21956,
+      "panamax": 14517
+    },
+    {
+      "date": "2026-07-13",
+      "bdi": 1455,
+      "capesize": 21907,
+      "panamax": 14607
+    },
+    {
+      "date": "2026-07-14",
+      "bdi": 1455,
+      "capesize": 22043,
+      "panamax": 14627
+    },
+    {
+      "date": "2026-07-15",
+      "bdi": 1401,
+      "capesize": 21203,
+      "panamax": 14057
+    },
+    {
+      "date": "2026-07-16",
+      "bdi": 1405,
+      "capesize": 21158,
+      "panamax": 14127
+    },
+    {
+      "date": "2026-07-17",
+      "bdi": 1375,
+      "capesize": 20794,
+      "panamax": 13828
+    },
+    {
+      "date": "2026-07-18",
+      "bdi": 1405,
+      "capesize": 21303,
+      "panamax": 14148
+    },
+    {
+      "date": "2026-07-19",
+      "bdi": 1401,
+      "capesize": 21096,
+      "panamax": 14104
+    },
+    {
+      "date": "2026-07-20",
+      "bdi": 1376,
+      "capesize": 20751,
+      "panamax": 13804
+    },
+    {
+      "date": "2026-07-21",
+      "bdi": 1406,
+      "capesize": 21248,
+      "panamax": 14132
+    },
+    {
+      "date": "2026-07-22",
+      "bdi": 1424,
+      "capesize": 21528,
+      "panamax": 14303
+    },
+    {
+      "date": "2026-07-23",
+      "bdi": 1368,
+      "capesize": 20712,
+      "panamax": 13768
+    },
+    {
+      "date": "2026-07-24",
+      "bdi": 1421,
+      "capesize": 21405,
+      "panamax": 14287
+    },
+    {
+      "date": "2026-07-25",
+      "bdi": 1384,
+      "capesize": 20885,
+      "panamax": 13906
+    },
+    {
+      "date": "2026-07-26",
+      "bdi": 1343,
+      "capesize": 20343,
+      "panamax": 13522
+    },
+    {
+      "date": "2026-07-27",
+      "bdi": 1402,
+      "capesize": 21343,
+      "panamax": 14073
+    },
+    {
+      "date": "2026-07-28",
+      "bdi": 1373,
+      "capesize": 20727,
+      "panamax": 13872
+    },
+    {
+      "date": "2026-07-29",
+      "bdi": 1333,
+      "capesize": 20161,
+      "panamax": 13334
+    },
+    {
+      "date": "2026-07-30",
+      "bdi": 1312,
+      "capesize": 19649,
+      "panamax": 13130
+    },
+    {
+      "date": "2026-07-31",
+      "bdi": 1391,
+      "capesize": 20936,
+      "panamax": 13971
+    },
+    {
+      "date": "2026-08-01",
+      "bdi": 1342,
+      "capesize": 20307,
+      "panamax": 13439
+    },
+    {
+      "date": "2026-08-02",
+      "bdi": 1397,
+      "capesize": 21010,
+      "panamax": 14006
+    },
+    {
+      "date": "2026-08-03",
+      "bdi": 1372,
+      "capesize": 20714,
+      "panamax": 13842
+    },
+    {
+      "date": "2026-08-04",
+      "bdi": 1374,
+      "capesize": 20646,
+      "panamax": 13783
+    },
+    {
+      "date": "2026-08-05",
+      "bdi": 1361,
+      "capesize": 20613,
+      "panamax": 13696
+    },
+    {
+      "date": "2026-08-06",
+      "bdi": 1375,
+      "capesize": 20829,
+      "panamax": 13795
+    },
+    {
+      "date": "2026-08-07",
+      "bdi": 1379,
+      "capesize": 20831,
+      "panamax": 13916
+    },
+    {
+      "date": "2026-08-08",
+      "bdi": 1384,
+      "capesize": 20872,
+      "panamax": 13869
+    },
+    {
+      "date": "2026-08-09",
+      "bdi": 1407,
+      "capesize": 21191,
+      "panamax": 14149
+    },
+    {
+      "date": "2026-08-10",
+      "bdi": 1355,
+      "capesize": 20545,
+      "panamax": 13565
+    },
+    {
+      "date": "2026-08-11",
+      "bdi": 1385,
+      "capesize": 21005,
+      "panamax": 13870
+    },
+    {
+      "date": "2026-08-12",
+      "bdi": 1407,
+      "capesize": 21244,
+      "panamax": 14096
+    },
+    {
+      "date": "2026-08-13",
+      "bdi": 1443,
+      "capesize": 21916,
+      "panamax": 14428
+    },
+    {
+      "date": "2026-08-14",
+      "bdi": 1388,
+      "capesize": 21017,
+      "panamax": 13893
+    },
+    {
+      "date": "2026-08-15",
+      "bdi": 1416,
+      "capesize": 21393,
+      "panamax": 14259
+    },
+    {
+      "date": "2026-08-16",
+      "bdi": 1424,
+      "capesize": 21518,
+      "panamax": 14285
+    },
+    {
+      "date": "2026-08-17",
+      "bdi": 1462,
+      "capesize": 22038,
+      "panamax": 14708
+    },
+    {
+      "date": "2026-08-18",
+      "bdi": 1426,
+      "capesize": 21542,
+      "panamax": 14325
+    },
+    {
+      "date": "2026-08-19",
+      "bdi": 1437,
+      "capesize": 21613,
+      "panamax": 14471
+    },
+    {
+      "date": "2026-08-20",
+      "bdi": 1474,
+      "capesize": 22271,
+      "panamax": 14839
+    },
+    {
+      "date": "2026-08-21",
+      "bdi": 1462,
+      "capesize": 22155,
+      "panamax": 14709
+    },
+    {
+      "date": "2026-08-22",
+      "bdi": 1449,
+      "capesize": 21951,
+      "panamax": 14567
+    },
+    {
+      "date": "2026-08-23",
+      "bdi": 1423,
+      "capesize": 21486,
+      "panamax": 14224
+    },
+    {
+      "date": "2026-08-24",
+      "bdi": 1443,
+      "capesize": 21823,
+      "panamax": 14552
+    },
+    {
+      "date": "2026-08-25",
+      "bdi": 1445,
+      "capesize": 21889,
+      "panamax": 14519
+    },
+    {
+      "date": "2026-08-26",
+      "bdi": 1416,
+      "capesize": 21273,
+      "panamax": 14195
+    },
+    {
+      "date": "2026-08-27",
+      "bdi": 1406,
+      "capesize": 21274,
+      "panamax": 14117
+    },
+    {
+      "date": "2026-08-28",
+      "bdi": 1444,
+      "capesize": 21816,
+      "panamax": 14557
+    },
+    {
+      "date": "2026-08-29",
+      "bdi": 1451,
+      "capesize": 21856,
+      "panamax": 14570
+    },
+    {
+      "date": "2026-08-30",
+      "bdi": 1411,
+      "capesize": 21179,
+      "panamax": 14209
+    },
+    {
+      "date": "2026-08-31",
+      "bdi": 1444,
+      "capesize": 21806,
+      "panamax": 14494
+    },
+    {
+      "date": "2026-09-01",
+      "bdi": 1468,
+      "capesize": 22020,
+      "panamax": 14680
+    },
+    {
+      "date": "2026-09-02",
+      "bdi": 1472,
+      "capesize": 22080,
+      "panamax": 14720
+    },
+    {
+      "date": "2026-09-03",
+      "bdi": 1458,
+      "capesize": 21870,
+      "panamax": 14580
+    },
+    {
+      "date": "2026-09-04",
+      "bdi": 1478,
+      "capesize": 22170,
+      "panamax": 14780
+    },
+    {
+      "date": "2026-09-05",
+      "bdi": 1490,
+      "capesize": 22350,
+      "panamax": 14900
+    },
+    {
+      "date": "2026-09-06",
+      "bdi": 1482,
+      "capesize": 22230,
+      "panamax": 14820
+    },
+    {
+      "date": "2026-09-07",
+      "bdi": 1501,
+      "capesize": 22515,
+      "panamax": 15010
+    },
+    {
+      "date": "2026-09-08",
+      "bdi": 1496,
+      "capesize": 22440,
+      "panamax": 14960
+    },
+    {
+      "date": "2026-09-09",
+      "bdi": 1510,
+      "capesize": 22650,
+      "panamax": 15100
+    }
+  ]
+}

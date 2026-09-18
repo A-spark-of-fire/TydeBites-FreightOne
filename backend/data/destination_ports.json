@@ -1,0 +1,391 @@
+{
+  "paradip": {
+    "code": "paradip",
+    "name": "Paradip Port",
+    "state": "Odisha",
+    "country": "India",
+    "lat": 20.2644,
+    "lon": 86.6947,
+    "max_vessel_dwt": 150000,
+    "max_draft_m": 14.5,
+    "berth_capacity": 12,
+    "handling_capability": [
+      "coking_coal",
+      "iron_ore",
+      "thermal_coal",
+      "limestone"
+    ],
+    "typical_congestion": "Low",
+    "avg_queue_days": 1.4,
+    "inland_to_plants": {
+      "RSP": {
+        "distance_km": 420,
+        "rail_days": 2,
+        "road_days": 3,
+        "rail_rate_per_mt": 360
+      },
+      "BSP": {
+        "distance_km": 680,
+        "rail_days": 3,
+        "road_days": 5,
+        "rail_rate_per_mt": 520
+      },
+      "VSP": {
+        "distance_km": 500,
+        "rail_days": 3,
+        "road_days": 4,
+        "rail_rate_per_mt": 450
+      },
+      "ISP": {
+        "distance_km": 500,
+        "rail_days": 3,
+        "road_days": 4,
+        "rail_rate_per_mt": 450
+      }
+    },
+    "historic_preference": {
+      "coking_coal": 0.48,
+      "iron_ore": 0.42,
+      "thermal_coal": 0.4,
+      "limestone": 0.25
+    },
+    "notes": "Preferred East Coast hub for SAIL plants in Odisha/Chhattisgarh. Good draft and coal handling.",
+    "max_loa_m": 300,
+    "max_beam_m": 50,
+    "handling_rate_mt_per_day": 30000,
+    "max_air_draft_m": 45
+  },
+  "haldia": {
+    "code": "haldia",
+    "name": "Haldia Port",
+    "state": "West Bengal",
+    "country": "India",
+    "lat": 22.0333,
+    "lon": 88.1,
+    "max_vessel_dwt": 90000,
+    "max_draft_m": 10.5,
+    "berth_capacity": 8,
+    "handling_capability": [
+      "coking_coal",
+      "iron_ore",
+      "limestone",
+      "thermal_coal"
+    ],
+    "typical_congestion": "Medium",
+    "avg_queue_days": 3.5,
+    "inland_to_plants": {
+      "ISP": {
+        "distance_km": 180,
+        "rail_days": 1,
+        "road_days": 1.5,
+        "rail_rate_per_mt": 160
+      },
+      "RSP": {
+        "distance_km": 520,
+        "rail_days": 3,
+        "road_days": 4,
+        "rail_rate_per_mt": 450
+      },
+      "BSP": {
+        "distance_km": 500,
+        "rail_days": 3,
+        "road_days": 4,
+        "rail_rate_per_mt": 450
+      },
+      "VSP": {
+        "distance_km": 500,
+        "rail_days": 3,
+        "road_days": 4,
+        "rail_rate_per_mt": 450
+      }
+    },
+    "historic_preference": {
+      "coking_coal": 0.25,
+      "iron_ore": 0.28,
+      "thermal_coal": 0.2,
+      "limestone": 0.22
+    },
+    "notes": "Riverine port; draft restricted. Strong for limestone and closer to ISP.",
+    "max_loa_m": 230,
+    "max_beam_m": 35,
+    "handling_rate_mt_per_day": 20000,
+    "max_air_draft_m": 36
+  },
+  "vizag": {
+    "code": "vizag",
+    "name": "Visakhapatnam Port",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "lat": 17.6868,
+    "lon": 83.2185,
+    "max_vessel_dwt": 200000,
+    "max_draft_m": 16.5,
+    "berth_capacity": 15,
+    "handling_capability": [
+      "coking_coal",
+      "iron_ore",
+      "thermal_coal",
+      "limestone"
+    ],
+    "typical_congestion": "Medium",
+    "avg_queue_days": 2.5,
+    "inland_to_plants": {
+      "VSP": {
+        "distance_km": 15,
+        "rail_days": 0.5,
+        "road_days": 1,
+        "rail_rate_per_mt": 80
+      },
+      "RSP": {
+        "distance_km": 780,
+        "rail_days": 4,
+        "road_days": 6,
+        "rail_rate_per_mt": 610
+      },
+      "BSP": {
+        "distance_km": 500,
+        "rail_days": 3,
+        "road_days": 4,
+        "rail_rate_per_mt": 450
+      },
+      "ISP": {
+        "distance_km": 500,
+        "rail_days": 3,
+        "road_days": 4,
+        "rail_rate_per_mt": 450
+      }
+    },
+    "historic_preference": {
+      "coking_coal": 0.35,
+      "iron_ore": 0.3,
+      "thermal_coal": 0.38,
+      "limestone": 0.12
+    },
+    "notes": "Deep draft, high capacity. Ideal for VSP and larger Capesize vessels.",
+    "max_loa_m": 300,
+    "max_beam_m": 50,
+    "handling_rate_mt_per_day": 30000,
+    "max_air_draft_m": 45
+  },
+  "gangavaram": {
+    "code": "gangavaram",
+    "name": "Gangavaram Port",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "lat": 17.6167,
+    "lon": 83.2333,
+    "max_vessel_dwt": 200000,
+    "max_draft_m": 19.5,
+    "berth_capacity": 6,
+    "handling_capability": [
+      "coking_coal",
+      "iron_ore",
+      "thermal_coal"
+    ],
+    "typical_congestion": "Low",
+    "avg_queue_days": 1.0,
+    "inland_to_plants": {
+      "VSP": {
+        "distance_km": 25,
+        "rail_days": 0.6,
+        "road_days": 1,
+        "rail_rate_per_mt": 95
+      },
+      "RSP": {
+        "distance_km": 800,
+        "rail_days": 4,
+        "road_days": 6,
+        "rail_rate_per_mt": 630
+      },
+      "BSP": {
+        "distance_km": 500,
+        "rail_days": 3,
+        "road_days": 4,
+        "rail_rate_per_mt": 450
+      },
+      "ISP": {
+        "distance_km": 500,
+        "rail_days": 3,
+        "road_days": 4,
+        "rail_rate_per_mt": 450
+      }
+    },
+    "historic_preference": {
+      "coking_coal": 0.2,
+      "iron_ore": 0.18,
+      "thermal_coal": 0.28,
+      "limestone": 0.08
+    },
+    "notes": "Modern private port adjacent to Vizag; excellent draft.",
+    "max_loa_m": 300,
+    "max_beam_m": 50,
+    "handling_rate_mt_per_day": 30000,
+    "max_air_draft_m": 48
+  },
+  "gopalpur": {
+    "code": "gopalpur",
+    "name": "Gopalpur Port",
+    "state": "Odisha",
+    "country": "India",
+    "lat": 19.305,
+    "lon": 84.96,
+    "max_vessel_dwt": 120000,
+    "max_draft_m": 14.0,
+    "max_loa_m": 260,
+    "max_beam_m": 42,
+    "berth_capacity": 4,
+    "handling_capability": [
+      "coking_coal",
+      "iron_ore",
+      "thermal_coal",
+      "limestone"
+    ],
+    "typical_congestion": "Medium",
+    "avg_queue_days": 2.2,
+    "handling_rate_mt_per_day": 25000,
+    "inland_to_plants": {
+      "RSP": {
+        "distance_km": 310,
+        "rail_days": 1.5,
+        "road_days": 2.5,
+        "rail_rate_per_mt": 320
+      },
+      "BSP": {
+        "distance_km": 580,
+        "rail_days": 2.5,
+        "road_days": 4,
+        "rail_rate_per_mt": 480
+      },
+      "VSP": {
+        "distance_km": 420,
+        "rail_days": 2,
+        "road_days": 3,
+        "rail_rate_per_mt": 390
+      },
+      "ISP": {
+        "distance_km": 750,
+        "rail_days": 3.5,
+        "road_days": 5.5,
+        "rail_rate_per_mt": 580
+      }
+    },
+    "historic_preference": {
+      "coking_coal": 0.18,
+      "iron_ore": 0.22,
+      "thermal_coal": 0.25,
+      "limestone": 0.1
+    },
+    "notes": "Emerging East Coast port; good for mid-size bulk, closer to southern Odisha plants.",
+    "max_air_draft_m": 40
+  },
+  "dhamra": {
+    "code": "dhamra",
+    "name": "Dhamra Port",
+    "state": "Odisha",
+    "country": "India",
+    "lat": 20.82,
+    "lon": 86.96,
+    "max_vessel_dwt": 180000,
+    "max_draft_m": 18.0,
+    "max_loa_m": 300,
+    "max_beam_m": 50,
+    "berth_capacity": 6,
+    "handling_capability": [
+      "coking_coal",
+      "iron_ore",
+      "thermal_coal"
+    ],
+    "typical_congestion": "Low",
+    "avg_queue_days": 1.8,
+    "handling_rate_mt_per_day": 45000,
+    "inland_to_plants": {
+      "RSP": {
+        "distance_km": 400,
+        "rail_days": 2.2,
+        "road_days": 3.2,
+        "rail_rate_per_mt": 390
+      },
+      "BSP": {
+        "distance_km": 640,
+        "rail_days": 3.2,
+        "road_days": 4.8,
+        "rail_rate_per_mt": 510
+      },
+      "VSP": {
+        "distance_km": 550,
+        "rail_days": 2.5,
+        "road_days": 4,
+        "rail_rate_per_mt": 450
+      },
+      "ISP": {
+        "distance_km": 680,
+        "rail_days": 3,
+        "road_days": 5,
+        "rail_rate_per_mt": 540
+      }
+    },
+    "historic_preference": {
+      "coking_coal": 0.22,
+      "iron_ore": 0.26,
+      "thermal_coal": 0.24,
+      "limestone": 0.08
+    },
+    "notes": "Deep-draft private port; excellent for Capesize and large Panamax.",
+    "max_air_draft_m": 45
+  },
+  "sagar": {
+    "code": "sagar",
+    "name": "Sagar / Sandheads",
+    "state": "West Bengal",
+    "country": "India",
+    "lat": 21.65,
+    "lon": 88.05,
+    "max_vessel_dwt": 90000,
+    "max_draft_m": 9.5,
+    "max_loa_m": 230,
+    "max_beam_m": 35,
+    "berth_capacity": 3,
+    "handling_capability": [
+      "coking_coal",
+      "thermal_coal",
+      "limestone"
+    ],
+    "typical_congestion": "High",
+    "avg_queue_days": 3.5,
+    "handling_rate_mt_per_day": 18000,
+    "inland_to_plants": {
+      "ISP": {
+        "distance_km": 180,
+        "rail_days": 1,
+        "road_days": 1.5,
+        "rail_rate_per_mt": 180
+      },
+      "RSP": {
+        "distance_km": 650,
+        "rail_days": 3,
+        "road_days": 5,
+        "rail_rate_per_mt": 520
+      },
+      "BSP": {
+        "distance_km": 900,
+        "rail_days": 4,
+        "road_days": 6.5,
+        "rail_rate_per_mt": 680
+      },
+      "VSP": {
+        "distance_km": 1100,
+        "rail_days": 5,
+        "road_days": 7,
+        "rail_rate_per_mt": 750
+      }
+    },
+    "historic_preference": {
+      "coking_coal": 0.08,
+      "iron_ore": 0.05,
+      "thermal_coal": 0.12,
+      "limestone": 0.15
+    },
+    "notes": "Riverine / outer anchorage system serving Haldia complex; draft limited, higher congestion risk.",
+    "max_air_draft_m": 34
+  }
+}

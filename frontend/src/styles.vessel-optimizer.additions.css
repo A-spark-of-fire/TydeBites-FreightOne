@@ -1,0 +1,31 @@
+
+/* ---- Vessel Optimizer: additive styles ---- */
+.vessel-input-panel{margin-bottom:14px}
+.vessel-callout{margin:14px 0 16px}
+.vessel-callout b{color:#dce8f7;margin-right:4px}
+.vessel-featured{margin-bottom:14px}
+.vessel-featured .route-stats{align-content:center}
+.vessel-constraint-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.vessel-constraint-card{display:flex;gap:11px;align-items:center;padding:13px;background:var(--panel2);border:1px solid var(--line);border-radius:10px}
+.vessel-constraint-card .kpi-icon{flex:0 0 34px}
+.vessel-constraint-card small{display:block;color:var(--muted);font-size:7px;letter-spacing:.05em}
+.vessel-constraint-card b{display:block;font-size:15px;margin-top:4px}
+.vessel-constraint-card span{display:block;color:var(--muted);font-size:7px;line-height:1.35;margin-top:3px}
+.vessel-rank-list{display:flex;flex-direction:column;gap:8px}
+.vessel-rank-item{display:grid;grid-template-columns:42px 1.8fr .95fr .75fr .65fr .9fr .55fr;align-items:center;gap:10px;padding:13px;background:var(--panel2);border:1px solid var(--line);border-radius:10px}
+.vessel-rank-item.selected{border-color:var(--blue);box-shadow:0 0 0 1px rgba(77,149,239,.15)}
+.vessel-rank-item small{display:block;color:var(--muted);font-size:7px;text-transform:uppercase;letter-spacing:.04em}
+.vessel-rank-item b{display:block;font-size:10px;margin-top:4px}
+.vessel-rank-item .rank-main h3{font-size:11px;margin:0}
+.vessel-rank-item .rank-main span{display:block;color:var(--muted);font-size:8px;margin-top:4px}
+.vessel-summary-grid{margin-top:14px}
+.vessel-summary-grid .panel{min-height:108px}
+.vessel-summary-grid h3{display:flex;align-items:center;gap:6px}
+.vessel-method-panel{margin-top:14px}
+.vessel-method-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:14px}
+.vessel-method-grid>div{display:flex;align-items:center;gap:7px;padding:10px;border:1px solid var(--line);border-radius:9px;background:var(--panel2);font-size:8px;color:var(--muted)}
+.vessel-method-grid svg{color:var(--blue);flex:0 0 auto}
+.vessel-method-grid b{color:var(--text);font-size:9px}
+.vessel-note{margin-top:12px!important}
+@media(max-width:1100px){.vessel-constraint-grid{grid-template-columns:1fr 1fr}.vessel-rank-item{grid-template-columns:34px 1.6fr .9fr .7fr .65fr .8fr}}
+@media(max-width:780px){.vessel-constraint-grid,.vessel-method-grid{grid-template-columns:1fr 1fr}.vessel-rank-item{grid-template-columns:30px 1fr}.vessel-rank-item>div:nth-child(n+3){display:none}}
