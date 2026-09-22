@@ -1,0 +1,15 @@
+name: Render Backend Keep-Alive
+
+on:
+  schedule:
+    # Runs automatically every 10 minutes
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # Allows manual triggering from GitHub Actions UI
+
+jobs:
+  ping-backend:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Health Endpoint
+        run: |
+          curl -s -f https://tydebites-freightone-7nyq.onrender.com/api/health || echo "Ping failed"
